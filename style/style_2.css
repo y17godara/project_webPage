@@ -25,6 +25,7 @@
 }
 .nav-links
 {
+    font-weight: 400;
     flex-basis: 730px;
 }
 .nav-links ul
