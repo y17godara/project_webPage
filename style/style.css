@@ -1,6 +1,6 @@
 
 /*font from google-fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;500&display=swap');
 
 
 /*reset :base*/
@@ -62,8 +62,8 @@ ul
 /*Utility Classes :Pre-Defined Helpers*/
 .small-bold-text
 {
-    font-size: 0.875rem;
-    font-weight: 500;
+    font-size: 1rem;
+    font-weight: 700;
 }
 .container
 {
@@ -89,7 +89,7 @@ ul
 {
     background-color: var(--accent-color);
     border-radius: 6px;
-    font-weight: 700;
+    font-weight: 500;
     color: white !important;
     padding: 12px 24px;
     box-shadow: 0 0 2px var(--secondary-text-color);
@@ -103,7 +103,7 @@ ul
 {
     border: 0.5px solid var(--secondary-text-color);
     border-radius: 6px;
-    font-weight: 700;
+    font-weight: 500;
     color: var(--primary-text-color) !important;
     padding: 12px 24px;
     transition: 0.2 ease-out;

@@ -13,4 +13,5 @@ assest used image
 
 /assets/asset\ 29.png\
 /assets/asset 1.png
+./assets/asset 3.png
 
