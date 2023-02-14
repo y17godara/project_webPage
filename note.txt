@@ -1,0 +1,16 @@
+language used : html, css
+
+plugins : fontawesoms , google font 
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+
+chrome extension for assest : CSS Peeper
+https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en
+
+
+assest used image
+
+/assets/asset\ 29.png\
+/assets/asset 1.png
+
